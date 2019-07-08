@@ -25,7 +25,7 @@ github_username:  null
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-textile-converter
